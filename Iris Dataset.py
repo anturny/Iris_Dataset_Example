@@ -5,7 +5,7 @@ import numpy as np
 # for visualization of data
 import matplotlib.pyplot as plt
 
-filepath = "C:\Users\antho\VSCode\tutorial_ML_and_NN-main\tutorial_ML_and_NN-main\src\3_Iris\iris.csv"
+filepath = "/iris.csv"
 
 # read in the file as 'dataset' into a pandas dataframe
 dataset = pd.read_csv(filepath)
