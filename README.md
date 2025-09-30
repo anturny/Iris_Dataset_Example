@@ -23,7 +23,12 @@ The goal of this project is to showcase how classification models can be trained
 Use 'pip install -r requirements.txt' to install the following dependencies:
 
 ```
-
+matplotlib==3.10.6
+numpy==2.3.3
+pandas==2.3.3
+scikit-learn==1.7.2
+scipy==1.16.2
+seaborn==0.13.2
 ```
 
 ## How to Use
@@ -33,5 +38,4 @@ Use 'pip install -r requirements.txt' to install the following dependencies:
 - This project does not have any error handling.
 
 ## References
-- [1] Scikit-learn Documentation: Iris Dataset. https://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_iris.html
-- [2] GeeksforGeeks, “Decision Tree Classifier in Python using Scikit-learn.” https://www.geeksforgeeks.org/machine-learning/decision-tree-implementation-python/ ‌
+- [1]GeeksforGeeks, “Python Basics of Pandas using Iris Dataset,” GeeksforGeeks, May 16, 2020. https://www.geeksforgeeks.org/machine-learning/python-basics-of-pandas-using-iris-dataset/
