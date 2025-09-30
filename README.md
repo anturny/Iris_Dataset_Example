@@ -15,8 +15,6 @@
 - Model: Decision Tree Classifier
 - Evaluation: Accuracy score, confusion matrix, and classification report
 
-
-
 ## Requirements
 - This project requires tensorflow, keras, and scikit-learn. It was developed using a Python environment through VSCode.
 
@@ -32,7 +30,7 @@ seaborn==0.13.2
 ```
 
 ## How to Use
-- To utilize this code, a Python environment is installed. Download the Iris_Decision_Tree.py file onto your computer into a folder. Then open that folder/file on VSCode.
+- To utilize this code, a Python environment is installed. Download the Iris.csv file onto your computer into a folder. Then open that folder/file on VSCode.
 
 ## Error Handling
 - This project does not have any error handling.
