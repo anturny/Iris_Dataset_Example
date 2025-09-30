@@ -1,7 +1,7 @@
 # Iris_Dataset_Example
 - This project demonstrates classification using the Iris dataset with machine learning algorithms. The main focus is on implementing a Decision Tree Classifier. The Iris dataset is a classic dataset in machine learning that contains 150 samples of iris flowers, with four features (sepal length, sepal width, petal length, petal width) and three classes (Setosa, Versicolor, and Virginica).
 
-The goal of this project is to showcase how classification models can be trained, evaluated, and visualized. The code is implemented in two styles: a regular procedural version and an object-oriented (OOP) version for better modularity and reusability.
+- The goal of this project is to showcase how classification models can be trained, evaluated, and visualized. The code is implemented in two styles: a regular procedural version and an object-oriented (OOP) version for better modularity and reusability.
 
 # Table of Contents
 - [Implementation](#implementation)
